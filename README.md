@@ -1,5 +1,5 @@
 # Dowload project 
-git clone ...
+git clone https://github.com/Kientega-Nourdine/Realtime-chat.git
 # install dependancies
 npm install 
 # Run app
